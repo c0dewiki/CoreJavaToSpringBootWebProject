@@ -2,7 +2,6 @@ package org.bank.account.transaction.service;
 
 import org.springframework.stereotype.Component;
 
-@Component
 public class EmailNotificationClient implements NotificationClient {
 
 	@Override
